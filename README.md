@@ -2,7 +2,7 @@
 Esse repositório vai conter testes e atividades!
 Abaixo segue os projetos e algumas informações sobre eles.
 
-## |**Projetos🗂️📝**|
+## **Projetos🗂️📝**
 
 ### ***TesteDeSerealizacao***
   ***Programa desenvolvido para o aprender sobre serealização e desserialização. O programa possui 3 classes, sendo elas:***
