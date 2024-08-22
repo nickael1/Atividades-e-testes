@@ -14,9 +14,9 @@ Abaixo segue os projetos e algumas informações sobre eles.
   - *Desserializar* - Classe que desserializa.
 
 ### ***Trabalho1_DOO***
-  ***1° Trabalho de desenvolvimento orientado a objetos, programa de caixa mercadinho.***
+  ***1° Trabalho de desenvolvimento orientado a objetos, programa de caixa mercadinho:***
   - Concluído!
 
 ### ***Trabalho2_DOO***
-  ***2° Trabalho de desenvolvimento orientado a objetos, programa de gerenciamento de frota***
+  ***2° Trabalho de desenvolvimento orientado a objetos, programa de gerenciamento de frota:***
   - ⚠️Falta consertar desserialização!
