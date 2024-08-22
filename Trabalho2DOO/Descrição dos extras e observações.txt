@@ -1,0 +1,12 @@
+Extras:
+Cores, imagens, gif, som de erro, loading, validação de campos.
+
+Observações:
+CORRIGIDO OS PONTOS APONTADOS PELO PROFESSOR!:
+"1) Na tela de média por litro, o programa pede para informar o preço do combustível no primeiro campo e logo abaixo o texto explicativo fala para inserir o número de kms rodados.
+2) Nessa mesma tela, não fez a validação dos campos.
+3) Na tela ""Quanto vou gastar para percorrer?"" parte do texto fica para fora do painel.
+4) Os cálculos envolvidos nas telas são todos muitos simples, praticamente divisão/multiplicação. Poderia ter pensado em resolver problemas mais complexos.
+5) O som não funcionou."
+
+Caso o som não funcione ou apresente algum erro, copie o endereço completo do arquivo de audio que está na pasta "Trabalho2DOO\\audios\\audioErroWXP.wav"(não é esse indereço mas sim oque está em sua maquina) e cole na classe AudioErro.
