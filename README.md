@@ -4,7 +4,7 @@ Abaixo segue os projetos e algumas informações sobre eles.
 
 ## **Projetos🗂️📝**
 
-### ***TesteDeSerealizacao***
+### ***TesteDeSerealização***
   ***Programa desenvolvido para o aprender sobre serealização e desserialização. O programa possui 3 classes, sendo elas:***
 
   - *Main* - Coleta os dados, cria um objeto Pessoa, Serealiza o objeto e chama o desserializar.
